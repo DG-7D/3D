@@ -15,3 +15,7 @@
 - FanGuard: PCファンのファンガード
 - FanGuard120Pin: ファンガードをスナップフィットでねじ穴に固定するピン
 - FanPinStopper: 工研部室のファンのピンを基板から抜けないようにするやつ
+
+## その他
+
+NavigationCube: SolidCraftのビューナビゲータで使うキューブ
